@@ -1,0 +1,80 @@
+#logo{
+	color: #F2E200;
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+.nav-link{
+	font-size: 1.2rem;
+}
+
+/*header area*/
+#header{
+	background-color: #0EAF2E;
+	max-height: 100vh;
+	height: 100%;
+	padding-top: 2rem;
+}
+
+.header-text{
+	font-size: 4rem;
+	color: #fff;
+	margin-top: 20vh;
+
+
+}
+.header-description{
+	color: #B8F1B0;
+	margin-bottom: 2rem;
+}
+.apply-btn{
+	margin-left: 6rem;
+	background-color: #F2E200;
+	color: #346335;
+	border: 0;
+}
+.header-img{
+	max-height: 80vh;
+	height: 100%;
+}
+
+
+/*subjects*/
+#subjects{
+	padding-top: 5rem;
+	text-align: center;
+	background-color: #346335;
+	padding-left: 10rem;
+	padding-right: 10rem;
+}
+.subhead{
+	margin-bottom: 3rem;
+	color: #00C607;
+}
+.subject-box{
+	background-color: #06B40C;
+	text-align: center;
+	padding: 2rem;
+	margin: 2rem;
+	border-radius: 2rem;
+	box-shadow: 3px 3px 8px #000;
+}
+.subject-h{
+	color: #fff;
+}
+.subject-p{
+	color: #D2F6EB;
+}
+.subject-img{
+	height: 7rem;
+}
+
+/*stats section*/
+#stats{
+	text-align: center;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+.stat-ico{
+	font-size: 2rem;
+}
